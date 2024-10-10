@@ -1,1 +1,1 @@
-print('asd')
+print('Hello, egor24912!')
